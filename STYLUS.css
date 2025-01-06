@@ -43,6 +43,10 @@ body {
   animation-range: entry 0% cover 40%;
 }
 
+.graph {
+  width: 50%;
+  height:50%;
+}
  
 h1 {
   font-family: "Audiowide", sans-serif;
