@@ -120,20 +120,15 @@ h4 {
 
 h5 {
   font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  font-style: normal;  letter-spacing: 1px;
-  font-size: 60px;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1px;
+  font-size:30px;
   color: #ffffff;
   text-align: center;
-  justify-content: center;
-  align-content: center;
-  margin: 15vh;
+  font-weight: bold;
+  margin: 30vh;
+  margin-top: 0;
   user-select: none;
-  background: linear-gradient(60deg, rgb(58, 71, 183) 0%, rgb(23, 214, 239) 100%);
-  width: 70%;
-  height: 140px;
-  border: linear-gradient(60deg, rgb(58, 71, 183) 0%, rgb(23, 214, 239) 100%);
-  border-radius: 45px;;
 
   
 }
