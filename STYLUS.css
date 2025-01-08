@@ -354,6 +354,16 @@ nav{
   }
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+:root {
+  --br: 20px;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .container {
   text-align: center;
 }
