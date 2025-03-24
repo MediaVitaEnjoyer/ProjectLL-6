@@ -353,3 +353,26 @@ nav{
     font-size:24px;
   }
 }
+
+
+/* ------------ SETTINGS ------------ */
+
+$card-image: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1613479/inception.jpg';
+$card-icon: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1613479/play.svg';
+
+$white: #FFF;
+$black: #000;
+
+
+
+/* ------------ CARD ------------ */
+
+// Main
+.card {
+	width: 70vw;
+	height: calc(9/16 * 70vw);
+	max-width: calc(16/9 * 70vh);
+	max-height: 70vh;
+	display: flex;
+  position: relative;
+  border-radius: 6px;
