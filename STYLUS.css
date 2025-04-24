@@ -9,7 +9,7 @@
 
 body {
   margin:0;
-  background: #ffffff; 
+  background: #18042c; 
   overflow-y:visible;
   text-align: center;
   word-spacing: 2px;
@@ -270,7 +270,7 @@ nav{
   margin: 0;
   position:relative;
   text-align:center;
-  background: linear-gradient(360deg, rgb(42, 2, 56) 0%, rgb(6, 3, 40) 100%); 
+  background: #18042c;
   color:rgb(255, 255, 255);
 }
 
