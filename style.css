@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@200..1000&family=Inter:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic&family=Zen+Dots&display=swap');
 
 
 
@@ -27,7 +28,7 @@ body {
 }
  
 h1 {
-  font-family: "Special Gothic Expanded One", sans-serif;
+  font-family: "Zen Dots", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 75px;
