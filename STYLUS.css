@@ -6,7 +6,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
 
-
+.streamvideo {
+  min-width: 500px;
+  min-height: 500px;
+}
 
 body {
   margin:0;
