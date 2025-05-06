@@ -94,11 +94,12 @@ h3 {
   font-family: 'Lato', sans-serif;
   letter-spacing: 1px;
   font-size:30px;
-  color: #ffffff;
+  color: #18042c;
   text-align: justify;
   margin: 30vh;
   margin-top: 0;
   user-select: none;
+  background-color: white;
 
   
 }
