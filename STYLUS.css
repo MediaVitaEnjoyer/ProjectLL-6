@@ -37,6 +37,10 @@ body {
   }
 }
 
+.streamvideo {
+  width: 1280px;
+  height: 720px;
+}
 
 .view {
   animation: appear linear;
